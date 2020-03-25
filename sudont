@@ -2,6 +2,6 @@
 
 # UNINSTALL THIS NOW
 
-userpassword="sudont!"
+password="sudont!"
 
-echo $userpassword | sudo -S "$@"
+echo $password | sudo -S "$@"
