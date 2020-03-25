@@ -7,6 +7,16 @@ password="sudont!"
 echo "IMMEDIATELY REMOVE THIS SCRIPT FROM YOUR COMPUTER"
 echo "YOUR COMPUTER IS IN DANGER"
 echo ""
-echo "Your password is '${password}'"
+echo "Your password is saved in this script as '${password}'"
 echo ""
-echo $password | sudo -S "$@"
+
+if [ -z "$1" ]; then
+    # no commands supplied
+    echo "No command supplied"
+    echo "Usage: sudont [command]"
+else 
+    # Run it -- the magic:
+    echo $password | sudo -S "$@"
+fi
+
+echo ""
