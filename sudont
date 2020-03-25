@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# UNINSTALL THIS NOW
+
+userpassword="sudont!"
+
+echo $userpassword | sudo -S "$@"
