@@ -4,4 +4,9 @@
 
 password="sudont!"
 
+echo "IMMEDIATELY REMOVE THIS SCRIPT FROM YOUR COMPUTER"
+echo "YOUR COMPUTER IS IN DANGER"
+echo ""
+echo "Your password is '${password}'"
+echo ""
 echo $password | sudo -S "$@"
