@@ -2,6 +2,16 @@
 
 # UNINSTALL THIS NOW
 
+# While this software is a joke, actually installing, configuring it, and using it is a serious mistake
+# it should only be done on a machine you are willing to lose all data and privacy on,
+# such a VM in a sandbox. Under no circumstances should this be installed on a mission-critical
+# or production machine
+
+# sudo is a command that takes your password and then allows you to do anything you want
+# For example, if you successfully set up sudon't, anyone with access to your computer can wipe
+# your entire hard drive.
+
+# Change the variable below to configure sudon't and ruin your computer's safety
 password="sudont!"
 
 shuf -n 1 ${PWD}/jokes.txt
