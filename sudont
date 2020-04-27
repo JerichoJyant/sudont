@@ -4,8 +4,7 @@
 
 password="sudont!"
 
-echo "IMMEDIATELY REMOVE THIS SCRIPT FROM YOUR COMPUTER"
-echo "YOUR COMPUTER IS IN DANGER"
+shuf -n 1 ${PWD}/jokes.txt
 echo ""
 echo "Your password is saved in this script as '${password}'"
 echo ""
