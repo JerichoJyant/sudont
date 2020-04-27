@@ -8,6 +8,8 @@
 # or production machine
 
 # sudo is a command that takes your password and then allows you to do anything you want
+# sudont is a wrapper around sudo. It's like hanging your house key on your front door.
+
 # For example, if you successfully set up sudon't, anyone with access to your computer can wipe
 # your entire hard drive.
 
