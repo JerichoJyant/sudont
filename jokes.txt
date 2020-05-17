@@ -4,7 +4,8 @@ Sudon't: The biggest mistake in software since "null" or your money back!
 Thanks for participating in the search for the world's laziest sysadmin!
 Sudon't thanks you for having a sense of humor
 Sudon't -- because putting a sticky note with your password on your desk isn't insecure enough
-Sudo? Su-don't.
+Su-do? Su-don't.
 Why login as root when you can save your passwords in plaintext?
 Sudon't -- security is for winners
 Sudon't reminds you to uninstall sudon't and change your password immediately! :)
+Sudon't politely encourages you to fire anyone who installs this on a production machine
