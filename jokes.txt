@@ -7,5 +7,5 @@ Sudon't -- because putting a sticky note with your password on your desk isn't i
 Su-do? Su-don't.
 Why login as root when you can save your passwords in plaintext?
 Sudon't -- security is for winners
-Sudon't reminds you to uninstall sudon't and change your password immediately! :)
+Sudon't reminds you to uninstall sudon't and change your password immediately!
 Sudon't politely encourages you to fire anyone who installs this on a production machine
