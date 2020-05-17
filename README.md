@@ -33,4 +33,4 @@ Edit the `sudont` script and change the password variable to yours. Make it exec
 *Note:* You may safely use this script as long as you don't configure it with your password. It won't work, but you will be able to see the randomly chosen insults! You can also use it in a throwaway VM install if the VM is safely and securely sandboxed.
 
 ## How it works
-`sudont` is a simple shell around `sudo`. The script pipes your pre-saved password into sudo and then sudo runs as usual.
+`sudont` is a simple shell around `sudo`. The script pipes your pre-saved password into sudo through standard input and then sudo runs as usual.
