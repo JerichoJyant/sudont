@@ -8,7 +8,7 @@ Sudon't is sudo with jokes and without passwords!
 sudont [command requiring root privileges]
 ```
 
-You will be insulted, your password will be printed, and then your command will run as root.
+You will be made fun of, your password will be printed, and then your command will run as root.
 
 ## sudo vs sudont
 ### sudo -- the built in, sane way
